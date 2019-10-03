@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 isdfvnsdfbnadvdb
+=======
+ hi this is a file 
+t5his file is good 
+>>>>>>> 45237608c577d8aa2a3e8be4cd633b8a03065251
